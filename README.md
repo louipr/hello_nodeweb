@@ -17,12 +17,12 @@ From the project folder execute the following command.
 ```
 npm install http-server
 ```
-#Create package.json
+# Create package.json
 Run the following command and take all default values.
 ```
 npm init
 ```
-#Add start command to package.json
+# Add start command to package.json
 insert the following json entry to package.json
 ```
   "scripts":{
