@@ -5,24 +5,24 @@ A simple Node.js web server with Visual Studio Code integration
 https://github.com/louipr/hello_nodeweb
 
 
-## Project Dependencies 
+### Project Dependencies 
 * npm 
 * http-server
 
-## Install npm 
+### Install npm 
 NPM can be installed from the web. 
 
-## Add http-server to project
+### Add http-server to project
 From the project folder execute the following command.
 ```
 npm install http-server
 ```
-# Create package.json
+### Create package.json
 Run the following command and take all default values.
 ```
 npm init
 ```
-# Add start command to package.json
+### Add start command to package.json
 insert the following json entry to package.json
 ```
   "scripts":{
